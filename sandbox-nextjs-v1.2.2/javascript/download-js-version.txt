@@ -1,0 +1,12 @@
+
+We initially released only the typescript version. Recently we also built a javascript version.
+
+1. Send us an email at support@ui-lib.com
+
+2. Include "download sandbox" in you email subject, this is important. Email body is not important.
+
+3. Please send email from the email you used to purchase from Themeforest.
+
+You'll instantly get download link in your inbox.
+
+Thanks for purchasing Sandbox Next.js.
